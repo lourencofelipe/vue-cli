@@ -149,3 +149,13 @@ export default {
   })
 }
 </script>
+
+<!-- working with sass -->
+<style lang="scss">
+  $color: green;
+
+  h1 {
+    color: $color;
+  }
+
+</style>
